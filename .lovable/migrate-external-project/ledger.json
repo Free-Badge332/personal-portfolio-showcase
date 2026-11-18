@@ -1,0 +1,100 @@
+[
+  {
+    "capability": "code",
+    "source": "GitHub portfolio",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Import portfolio modules and verify preview"
+  },
+  {
+    "capability": "schema",
+    "source": "No database code detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "records",
+    "source": "Static portfolio content",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Copy source content"
+  },
+  {
+    "capability": "auth identities",
+    "source": "No authentication detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "authorization",
+    "source": "No protected data detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "uploaded file bytes",
+    "source": "Bundled public assets",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Copy images, model, decoder, and resume"
+  },
+  {
+    "capability": "external providers",
+    "source": "Web3Forms in unused ContactForm; social/project links",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Verify rendered source paths without sending unsolicited email"
+  },
+  {
+    "capability": "public endpoints",
+    "source": "No server endpoints detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "callbacks",
+    "source": "None detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "webhooks",
+    "source": "None detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "schedules",
+    "source": "None detected",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "secrets",
+    "source": "No server credentials required",
+    "outcome": "not_applicable",
+    "status": "verified",
+    "next_action": "None"
+  },
+  {
+    "capability": "cutover",
+    "source": "Preview only",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Run in Lovable preview; publishing not requested"
+  },
+  {
+    "capability": "verification",
+    "source": "Desktop/mobile navigation and 3D scene",
+    "outcome": "preserve",
+    "status": "pending",
+    "next_action": "Exercise live portfolio"
+  }
+]
